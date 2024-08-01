@@ -41,7 +41,7 @@ import (
 	"k8s.io/kubectl/pkg/util/i18n"
 	"k8s.io/kubectl/pkg/util/interrupt"
 
-	"github.com/zoumo/kubectl-plugins/pkg/flags"
+	"github.com/ColdsteelRail/kubectl-plugins/pkg/flags"
 )
 
 var example = `

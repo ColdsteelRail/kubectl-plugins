@@ -1,4 +1,4 @@
-module github.com/zoumo/kubectl-plugins
+module github.com/ColdsteelRail/kubectl-plugins
 
 go 1.19
 
